@@ -47,6 +47,7 @@ python mirror_clone_system.py
 - **Mirror Transform**: OpenCV horizontal flipping
 - **Real-time Processing**: Optimized for low latency
 - **Background Removal**: Binary masking technique
+<img width="1789" height="968" alt="image" src="https://github.com/user-attachments/assets/20b1162f-7fe8-46bd-bf94-86a07e97f8b9" />
 
 ## Troubleshooting
 
@@ -60,4 +61,5 @@ This project is designed for:
 - Computer Vision coursework
 - Final year projects
 - AR/VR learning
+
 - Interactive demonstrations
